@@ -1,4 +1,4 @@
-### Olá, sou Jean Carlos.
+### Olá, eu sou Jean Carlos.
 
  <div>
   <a href="https://github.com/jeancc-developer">
