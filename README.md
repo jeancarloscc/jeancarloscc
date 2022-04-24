@@ -6,11 +6,10 @@
 Desenvolvedor Web e Mobile
 --------------------------
 
-* 🌍  I'm based in Capitão Poço
-* 🖥️  See my portfolio at [Meu portifólio](http://github.com/jeancc-developer)
-* ✉️  You can contact me at [jeancc.costa@gmail.com](mailto:jeancc.costa@gmail.com)
-* 🧠  I'm learning Estou aprendendo na área de Data Science e Machine Learning
-* 🤝  I'm open to collaborating on Projetos de desenvolvimento web utilizando o Framework Django ou com Data Science
+* 🖥️  Veja meu portfólio em [Meu portifólio](http://github.com/jeancc-developer)
+* ✉️  Você pode entrar em contato comigo em [jeancc.costa@gmail.com](mailto:jeancc.costa@gmail.com)
+* 🧠  Estou aprendendo na área de Data Science e Machine Learning. Estou cursando mestrado no Programa de Pós-Graduação em Ciência da Computação
+* 🤝  Estou aberto a colaborar com projetos de desenvolvimento web utilizando o Framework Django ou desenvolvimento mobile com Flutter. Também tenho interesse em trabalhar com estudos de Data Science
 
 <a href="https://www.github.com/jeancc-developer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jeancc-developer?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
