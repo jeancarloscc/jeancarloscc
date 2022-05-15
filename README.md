@@ -3,7 +3,7 @@
   Hi 👋 My name is Jean Carlos
 ============================
 
-Desenvolvedor Web e Mobile
+Desenvolvedor Mobile
 --------------------------
 
 * 🖥️  Veja meu portfólio em [Meu portifólio](http://github.com/jeancc-developer)
