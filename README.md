@@ -3,7 +3,7 @@
   Hi 👋 My name is Jean Carlos
 ============================
 
-Desenvolvedor Mobile
+Cientista de Dados
 --------------------------
 
 * 🖥️  Veja meu portfólio em [Meu portifólio](http://github.com/jeancc-developer)
@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/jeancc-developer?logo=github&style=
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" height="36" alt="Java" /></a>
 
- ### Framework
+### Framework
  
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" /></a>
