@@ -11,7 +11,7 @@ Cientista de Dados
 * 🧠  Estou aprendendo na área de Data Science e Machine Learning. Estou cursando mestrado no Programa de Pós-Graduação em Ciência da Computação
 * 🤝  Estou aberto a colaborar com projetos de desenvolvimento web utilizando o Framework Django ou desenvolvimento mobile com Flutter. Também tenho interesse em trabalhar com estudos de Data Science
 <a href="http://www.github.com/jeancc-developer">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancc-developer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="jeancc-developer's GitHub stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancc-developer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true&locale=pt-br" alt="jeancc-developer's GitHub stats" />
 </a>
 
 <!-- <a href="http://www.github.com/jeancc-developer">
