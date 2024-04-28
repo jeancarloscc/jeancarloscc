@@ -1,52 +1,82 @@
- <!-- in your header -->
+<h1 align="center">Olá 👋</h1>
 
-  Hi 👋 My name is Jean Carlos
-============================
+###
 
-Cientista de Dados
---------------------------
+<h3 align="left">👩‍💻 Sobre mim</h3>
 
-* 🖥️  Veja meu portfólio em [Meu portifólio](http://github.com/jeancarloscc)
-* ✉️  Você pode entrar em contato comigo em [jeancc.costa@gmail.com](mailto:jeancc.costa@gmail.com)
-* 🧠  Estou aprendendo na área de Data Science e Machine Learning. Estou cursando mestrado no Programa de Pós-Graduação em Ciência da Computação
-* 🤝  Estou aberto a colaborar com projetos de desenvolvimento web utilizando o Framework Django ou desenvolvimento mobile com Flutter. Também tenho interesse em trabalhar com estudos de Data Science
-<a href="http://www.github.com/jeancarloscc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancarloscc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=pt-br" alt="jeancarloscc's GitHub stats" />
-</a>
+###
 
-<!-- <a href="http://www.github.com/jeancarloscc">
- <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=jeancarloscc&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&custom_title=Jean%20%Carlos" />
-</a> -->
+<br clear="both">
 
-<!-- <a href="http://www.github.com/jeancarloscc">
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=jeancarloscc&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a> -->
+<p align="left">Eu sou Jean Carlos, do Brasil.<br><br>- 🔭 Atualmente trabalho como pesquisador no Laboratório de Inteligência de Dados (LID), onde conduzo pesquisas nas áreas de inteligência artificial, aprendizado de máquina, ciência de dados e mineração de dados. Meu foco inclui o aprimoramento de algoritmos e suas aplicações na educação.<br>- 📚 No momento, estou me aprofundando no estudo de algoritmos de aprendizado profundo, com ênfase na utilização de modelos fundamentais, como os Transformers.<br>- ⚡ Nas horas vagas, dedico-me ao desenvolvimento de projetos pessoais, especialmente na área de desenvolvimento mobile, com o objetivo de criar soluções inovadoras.</p>
 
-<a href="https://github.com/jeancarloscc">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancarloscc&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=pt-br&count_private=true&custom_title=Principais%20%Linguagens" alt="Top Languages" />
-</a>
+###
 
-<br />
-<br />
-<br />
+<div align="left">
+  <a href="https://www.linkedin.com/in/jeancc-costa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jeancc.costa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="jeancc.costa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-### Linguagens de programação
+###
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" height="36" alt="Java" /></a>
+<h3 align="left">🛠 Language</h3>
 
-### Framework
- 
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
-### Redes Sociais
+###
 
-<p align="left"> <a href="https://www.facebook.com/jeancc.costa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/jeancc.costa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/jean-carlos-37a857173/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<h3 align="left">🛠 Tools</h3>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jeancarloscc&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeancarloscc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/output/snake.svg" alt="Snake animation" />
+
+###
