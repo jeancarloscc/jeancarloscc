@@ -1,8 +1,8 @@
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
@@ -77,6 +77,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jeancarloscc/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/output/snake.svg" alt="Snake animation" />
 
 ###
