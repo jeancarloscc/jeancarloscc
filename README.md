@@ -77,6 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jeancarloscc/output/snake.svg" alt="Snake animation" />
 
 ###
