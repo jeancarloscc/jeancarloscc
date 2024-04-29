@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">Eu sou Jean Carlos<br><br>- 🔭 Atualmente trabalho como pesquisador no Laboratório de Inteligência de Dados (LID), onde conduzo pesquisas nas áreas de inteligência artificial, aprendizado de máquina, ciência de dados e mineração de dados. Meu foco inclui o aprimoramento de algoritmos e suas aplicações na educação.<br>- 📚 No momento, estou me aprofundando no estudo de algoritmos de aprendizado profundo, com ênfase na utilização de modelos fundamentais, como os Transformers.<br>- ⚡ Nas horas vagas, dedico-me ao desenvolvimento de projetos pessoais, especialmente na área de desenvolvimento mobile, com o objetivo de criar soluções inovadoras.</p>
+<p align="left">Eu sou Jean Carlos.<br><br>- 🔭 Atualmente trabalho como pesquisador no Laboratório de Inteligência de Dados (LID), onde conduzo pesquisas nas áreas de inteligência artificial, aprendizado de máquina, ciência de dados e mineração de dados. Meu foco inclui o aprimoramento de algoritmos e suas aplicações na educação.<br>- 📚 No momento, estou me aprofundando no estudo de algoritmos de aprendizado profundo, com ênfase na utilização de modelos fundamentais, como os Transformers.<br>- ⚡ Nas horas vagas, dedico-me ao desenvolvimento de projetos pessoais, especialmente na área de desenvolvimento mobile, com o objetivo de criar soluções inovadoras.</p>
 
 ###
 
@@ -71,13 +71,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeancarloscc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeancarloscc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/output/snake.svg" alt="Snake animation" />
 
