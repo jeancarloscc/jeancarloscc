@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">Eu sou Jean Carlos, do Brasil.<br><br>- 🔭 Atualmente trabalho como pesquisador no Laboratório de Inteligência de Dados (LID), onde conduzo pesquisas nas áreas de inteligência artificial, aprendizado de máquina, ciência de dados e mineração de dados. Meu foco inclui o aprimoramento de algoritmos e suas aplicações na educação.<br>- 📚 No momento, estou me aprofundando no estudo de algoritmos de aprendizado profundo, com ênfase na utilização de modelos fundamentais, como os Transformers.<br>- ⚡ Nas horas vagas, dedico-me ao desenvolvimento de projetos pessoais, especialmente na área de desenvolvimento mobile, com o objetivo de criar soluções inovadoras.</p>
+<p align="left">Eu sou Jean Carlos<br><br>- 🔭 Atualmente trabalho como pesquisador no Laboratório de Inteligência de Dados (LID), onde conduzo pesquisas nas áreas de inteligência artificial, aprendizado de máquina, ciência de dados e mineração de dados. Meu foco inclui o aprimoramento de algoritmos e suas aplicações na educação.<br>- 📚 No momento, estou me aprofundando no estudo de algoritmos de aprendizado profundo, com ênfase na utilização de modelos fundamentais, como os Transformers.<br>- ⚡ Nas horas vagas, dedico-me ao desenvolvimento de projetos pessoais, especialmente na área de desenvolvimento mobile, com o objetivo de criar soluções inovadoras.</p>
 
 ###
 
