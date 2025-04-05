@@ -2,10 +2,9 @@
 
 ### Olá 👋, meu nome é Jean Carlos!
 
-<p>🔬 Pesquisador no Laboratório de Inteligência de Dados (LID), atuando com  <br/>
-inteligência artificial, aprendizado profundo e ciência de dados, com foco<br/>
+<p>🔬 Pesquisador no Laboratório de Inteligência de Dados (LID), atuando com inteligência artificial, aprendizado profundo e ciência de dados, com foco
 em aplicações educacionais.<br/>
-📱 Apaixonado por desenvolvimento mobile, crio soluções inovadoras em projetos<br/>
+📱 Apaixonado por desenvolvimento mobile, crio soluções inovadoras em projetos
 pessoais usando Flutter e IA generativa.</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="198" alt="Linguagens mais usadas" />
