@@ -7,7 +7,7 @@ em aplicações em dados educacionais.<br/>
 📱 Apaixonado por desenvolvimento mobile, busco soluções inovadoras em projetos
 pessoais usando Flutter e IA generativa.</p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark_dimmed&hide_border=false" height="198" alt="Linguagens mais usadas" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark_dimmed&hide_border=false" height="198" alt="Linguagens mais usadas" />
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato: ⤵️
