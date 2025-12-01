@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=F5F1E8&text=Olá,%20sou%20Jean%20Carlos&section=header&reversal=false&textBg=false&fontColor=0F4C5C&descSize=0&descAlign=50&descAlignY=65)](https://github.com/jeancarloscc)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=F5F1E8&text=Olá,%20sou%20Jean%20Carlos&section=header&reversal=false&textBg=false&fontColor=0F4C5C&descSize=0&descAlign=50&descAlignY=65)](https://github.com/jeancarloscc)
 
 <p align="left">
   <a href="mailto:jeancc.costa@gmail.com" title="Gmail">
@@ -43,5 +43,5 @@ pessoais usando Flutter e IA generativa.</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jeancarloscc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=pt-br&hide_border=false" height="160" alt="Estatísticas do GitHub" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark_dimmed&hide_border=false" height="198" alt="Linguagens mais usadas" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark_dimmed&hide_border=false&hide=Jupyter Notebook" height="198" alt="Linguagens mais usadas" />
 
