@@ -42,5 +42,5 @@ pessoais usando Flutter e IA generativa.</p>
 
 <img align="right" src="https://github-readme-stats-bay-two-54.vercel.app/api?username=jeancarloscc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=pt-br&hide_border=false" height="160" alt="Estatísticas do GitHub" />
 
-<img align="left" src="https://github-readme-stats-bay-two-54.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark_dimmed&hide_border=false&hide=jupyter%20notebook" height="240" alt="Linguagens mais usadas" />
+<img align="left" src="https://github-readme-stats-bay-two-54.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=github_dark_dimmed&hide_border=false&hide=jupyter%20notebook" height="240" alt="Linguagens mais usadas" />
 
