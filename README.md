@@ -40,7 +40,7 @@ pessoais usando Flutter e IA generativa.</p>
 
 ### Estatísticas
 
-<img align="right" src="https://github-readme-stats-bay-two-54.vercel.app/api?username=jeancarloscc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false" height="160" alt="Estatísticas do GitHub" />
+<img align="right" src="https://github-readme-stats-bay-two-54.vercel.app/api?username=jeancarloscc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=pt-br&hide_border=false" height="160" alt="Estatísticas do GitHub" />
 
-<img align="left" src="https://github-readme-stats-bay-two-54.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=graywhite&hide_border=false&hide=jupyter%20notebook" height="230" alt="Linguagens mais usadas" />
+<img align="left" src="https://github-readme-stats-bay-two-54.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=solarized-light&hide_border=false&hide=jupyter%20notebook" height="230" alt="Linguagens mais usadas" />
 
