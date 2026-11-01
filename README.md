@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=F5F1E8&text=Olá,%20sou%20Jean%20Carlos&section=header&reversal=false&textBg=false&fontColor=0F4C5C)](https://github.com/jeancarloscc)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=170&color=F5F1E8&text=Olá,%20sou%20Jean%20Carlos&fontSize=46&fontAlignY=36&desc=Doutorando%20em%20Ciência%20da%20Computação%20·%20Visão%20Computacional%20e%20LLMs&descSize=17&descAlignY=58&section=header&reversal=false&textBg=false&fontColor=0F4C5C)](https://github.com/jeancarloscc)
 
 <!-- TODO: troque SEU_ID_LATTES e SEU_ORCID pelos seus identificadores -->
 <p align="left">
@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/refs/heads/main/assets/instagram.svg" alt="Instagram"/></a>
 </p>
 
-<img align="right" alt="Animação ilustrando inteligência artificial" src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/main/assets/ia.gif" width="230px"/>
+<img align="right" alt="Ilustração animada que alterna entre visão computacional, LLMs e ensino e extensão" src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/main/assets/areas.svg" width="230px"/>
 
 <p>
 🎓 Doutorando em Ciência da Computação no PPGCC/UFPA e mestre em Ciência da Computação.<br/>
@@ -79,6 +79,6 @@
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-bay-two-54.vercel.app/api?username=jeancarloscc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-bay-two-54.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=graywhite&hide_border=false&hide=jupyter%20notebook" height="165" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-bay-two-54.vercel.app/api?username=jeancarloscc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=pt-br&hide_border=false&bg_color=F5F1E8&title_color=0F4C5C&icon_color=0F4C5C&text_color=2E2E2E&ring_color=0F4C5C&border_color=E2DACB" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-bay-two-54.vercel.app/api/top-langs?username=jeancarloscc&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=6&hide_border=false&hide=jupyter%20notebook&bg_color=F5F1E8&title_color=0F4C5C&text_color=2E2E2E&border_color=E2DACB" height="165" alt="Linguagens mais usadas" />
 </p>
