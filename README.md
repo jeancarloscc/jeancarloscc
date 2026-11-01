@@ -3,13 +3,13 @@
 <!-- TODO: troque SEU_ID_LATTES e SEU_ORCID pelos seus identificadores -->
 <p align="left">
   <a href="mailto:jeancc.costa@gmail.com" title="E-mail">
-  <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/refs/heads/main/assets/mail.svg" alt="E-mail"/></a>
+  <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/refs/heads/main/assets/mail.svg" alt="E-mail"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/jeancc-costa/" title="LinkedIn">
-  <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/refs/heads/main/assets/linkedin.svg" alt="LinkedIn"/></a>
+  <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/refs/heads/main/assets/linkedin.svg" alt="LinkedIn"/></a>&nbsp;
   <a href="http://lattes.cnpq.br/SEU_ID_LATTES" title="Currículo Lattes">
-  <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/refs/heads/main/assets/lattes.svg" alt="Currículo Lattes"/></a>
+  <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/refs/heads/main/assets/lattes.svg" alt="Currículo Lattes"/></a>&nbsp;
   <a href="https://orcid.org/SEU_ORCID" title="ORCID">
-  <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/refs/heads/main/assets/orcid.svg" alt="ORCID"/></a>
+  <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/refs/heads/main/assets/orcid.svg" alt="ORCID"/></a>&nbsp;
   <a href="https://www.instagram.com/jeancc.costa/" title="Instagram">
   <img src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/refs/heads/main/assets/instagram.svg" alt="Instagram"/></a>
 </p>
@@ -17,7 +17,7 @@
 <img align="right" alt="Ilustração animada que alterna entre visão computacional, LLMs e ensino e extensão" src="https://raw.githubusercontent.com/jeancarloscc/jeancarloscc/main/assets/areas.svg" width="230px"/>
 
 <p>
-🎓 Doutorando em Ciência da Computação no PPGCC/UFPA e mestre em Ciência da Computação.<br/>
+🎓 Doutorando no PPGCC/UFPA e mestre em Ciência da Computação.<br/>
 🔬 Pesquisador no Laboratório de Inteligência de Dados (LID/UFPA). Trabalho com visão computacional e aprendizado de máquina para detectar estresse hídrico em açaizeiros, e com avaliação de LLMs em exames educacionais.<br/>
 👨‍🏫 Atuo em ensino e extensão: integro a equipe do PROLIA, programa de letramento em IA da UFPA, e oriento alunos na escrita e submissão de trabalhos científicos.<br/>
 📱 Em projetos pessoais, desenvolvo apps em Flutter integrados a IA generativa.<br/>
@@ -56,8 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </div>
