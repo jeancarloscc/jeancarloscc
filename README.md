@@ -1,7 +1,7 @@
 <a href="https://github.com/jeancarloscc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=170&color=0F2F38&text=Olá,%20sou%20Jean%20Carlos&fontSize=46&fontAlignY=36&desc=Doutorando%20em%20Ciência%20da%20Computação%20·%20Visão%20Computacional%20e%20LLMs&descSize=17&descAlignY=58&section=header&reversal=false&textBg=false&fontColor=F5F1E8">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=F5F1E8&text=Olá,%20sou%20Jean%20Carlos&fontSize=46&fontAlignY=36&desc=Doutorando%20em%20Ciência%20da%20Computação%20·%20Visão%20Computacional%20e%20LLMs&descSize=17&descAlignY=58&section=header&reversal=false&textBg=false&fontColor=0F4C5C" alt="Olá, sou Jean Carlos — Doutorando em Ciência da Computação · Visão Computacional e LLMs" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=170&color=0F2F38&text=Ol%C3%A1%2C%20sou%20Jean%20Carlos&fontSize=46&fontAlignY=36&desc=Doutorando%20em%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20Vis%C3%A3o%20Computacional%20e%20LLMs&descSize=17&descAlignY=58&section=header&reversal=false&textBg=false&fontColor=F5F1E8">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=F5F1E8&text=Ol%C3%A1%2C%20sou%20Jean%20Carlos&fontSize=46&fontAlignY=36&desc=Doutorando%20em%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20Vis%C3%A3o%20Computacional%20e%20LLMs&descSize=17&descAlignY=58&section=header&reversal=false&textBg=false&fontColor=0F4C5C" alt="Olá, sou Jean Carlos — Doutorando em Ciência da Computação · Visão Computacional e LLMs" width="100%">
   </picture>
 </a>
 
